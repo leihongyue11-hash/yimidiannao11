@@ -67,7 +67,7 @@
     <div class="section">
       <h2>联系方式</h2>
       <p>Email：78298779@qq.com</p>
-      <p>GitHub：https://leihongyue11-hash.github.io/yimishuodiannao1/</p>
+      <p>GitHub：https://leihongyue11-hash.github.io/yimidiannao11/</p>
       <p>头条号：壹米说电脑</p>
     </div>
 
